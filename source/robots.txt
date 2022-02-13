@@ -1,0 +1,8 @@
+User-agent: * Allow: /
+Allow: /archives/
+Disallow: /vendors/
+Disallow: /categories/
+
+
+Sitemap: https://www.bluemap.cc/sitemap.xml
+Sitemap: https://www.bluemap.cc/baidusitemap.xml

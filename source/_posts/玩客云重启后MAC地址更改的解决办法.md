@@ -1,6 +1,7 @@
 ---
 title: 玩客云重启后MAC地址更改的解决办法
 tags: 玩客云
+categories: 玩客云
 abbrlink: 8d4ac757
 date: 2021-03-25 20:50:52
 ---
@@ -15,13 +16,8 @@ date: 2021-03-25 20:50:52
 
 找到hwaddress那一行，在那一行前面加#注释掉。
 
-<!--more-->  
+<!--more-->
 
 再在下面那一行添加 pre-up ifconfig eth0 hw ether xx:xx:xx:xx:xx（xx:xx:xx:xx:xx为你想更改的MAC地址）
 
 ![photo.png](https://ivanstar.gitee.io/markdown-photo/wky-mac/fbK5WpDRTI2gmQG.png)
-
-
-
-
-

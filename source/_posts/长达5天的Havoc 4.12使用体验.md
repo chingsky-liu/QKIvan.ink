@@ -1,9 +1,12 @@
 ---
-abbrlink: '0'
+title: 长达6天的Havoc 4.12使用体验
+tags: AOSP
+categories: ROM体验
+abbrlink: c65cc841
+date: 2021-02-13 20:51:10
 ---
-# # 长达6天的Havoc 4.12使用体验
 
-瞎说：这篇文章是我用Mark Text写的第一篇文章（Typora收费了），bug有点小多，有机会试Milkdown。
+前言：这篇文章是我用Mark Text写的第一篇文章（Typora收费了），bug有点小多，有机会试Milkdown。
 
 这恰好是我来酷安发的第二篇图文，写的不够好的地方欢迎评论指出。
 

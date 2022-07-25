@@ -1,1 +1,0 @@
-# ~~QKIvan.ink~~
